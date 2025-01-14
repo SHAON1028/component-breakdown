@@ -28,6 +28,13 @@ const Booklist = () => {
       author: "J.D. Salinger",
       featured: false,
     },
+    {
+      id: 6,
+      cover:"/public/book-cover2.svg",
+      title: "The Catcher in the Rye",
+      author: "J.D. Salinger",
+      featured: true,
+    },
   ];
 
   return (
