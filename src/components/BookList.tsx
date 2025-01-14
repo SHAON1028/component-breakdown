@@ -7,7 +7,7 @@ const Booklist = () => {
       title: "To Kill a Mockingbird",
       author: "Harper Lee",
       featured: false,
-      cover:"/public/book-cover.svg"
+      cover:"/book-cover.svg"
     },
     { id: 2, title: "1984", author: "George Orwell", featured: false },
     {
@@ -30,7 +30,7 @@ const Booklist = () => {
     },
     {
       id: 6,
-      cover:"/public/book-cover2.svg",
+      cover:"/book-cover2.svg",
       title: "The Catcher in the Rye",
       author: "J.D. Salinger",
       featured: true,
